@@ -1,0 +1,2 @@
+C:\Users\Lenovo\source\repos\XRayMatrix\Debug\XRayMatrix.exe
+C:\Users\Lenovo\source\repos\XRayMatrix\Debug\XRayMatrix.pdb

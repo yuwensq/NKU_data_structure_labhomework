@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\SortComparasion\Debug\SortComparasion.exe
+C:\Users\Lenovo\source\repos\SortComparasion\Debug\SortComparasion.pdb
+C:\Users\Lenovo\Desktop\作业\大二上\数据结构\Lab5\SortComparasion\Debug\SortComparasion.exe
+C:\Users\Lenovo\Desktop\作业\大二上\数据结构\Lab5\SortComparasion\Debug\SortComparasion.pdb
+C:\Users\Lenovo\Desktop\作业\大二上\数据结构\实验\Lab5\SortComparasion\Debug\SortComparasion.exe
+C:\Users\Lenovo\Desktop\作业\大二上\数据结构\实验\Lab5\SortComparasion\Debug\SortComparasion.pdb

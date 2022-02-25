@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BTree", "BTree.vcxproj", "{BAEB6353-8DAA-47A7-B2D2-E4D6BBAD8B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEB6353-8DAA-47A7-B2D2-E4D6BBAD8B90}.Debug|x64.ActiveCfg = Debug|x64
+		{BAEB6353-8DAA-47A7-B2D2-E4D6BBAD8B90}.Debug|x64.Build.0 = Debug|x64
+		{BAEB6353-8DAA-47A7-B2D2-E4D6BBAD8B90}.Debug|x86.ActiveCfg = Debug|Win32
+		{BAEB6353-8DAA-47A7-B2D2-E4D6BBAD8B90}.Debug|x86.Build.0 = Debug|Win32
+		{BAEB6353-8DAA-47A7-B2D2-E4D6BBAD8B90}.Release|x64.ActiveCfg = Release|x64
+		{BAEB6353-8DAA-47A7-B2D2-E4D6BBAD8B90}.Release|x64.Build.0 = Release|x64
+		{BAEB6353-8DAA-47A7-B2D2-E4D6BBAD8B90}.Release|x86.ActiveCfg = Release|Win32
+		{BAEB6353-8DAA-47A7-B2D2-E4D6BBAD8B90}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {479B041E-B483-40C6-AA0E-A77AE6B8B370}
+	EndGlobalSection
+EndGlobal
